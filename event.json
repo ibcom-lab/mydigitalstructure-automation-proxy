@@ -1,0 +1,5 @@
+{
+    "automationUUID": "cf4c6600-dadd-4425-a7d5-63ce140750xx",
+    "invokeControllerName": "controller-1",
+    "invokeControllerParam": {"message": "Hello World!"}
+}
